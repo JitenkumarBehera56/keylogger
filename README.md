@@ -219,7 +219,7 @@ https://github.com/JitenkumarBehera56
 
 ### Repository
 
-https://github.com/JitenkumarBehera56/Keylogger
+https://github.com/JitenkumarBehera56/keylogger
 
 ---
 
